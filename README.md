@@ -20,4 +20,5 @@ Abra o arquivo index.html em seu navegador preferido.
 ## Autor
 [Danny Machado] - [Dannyz817]
 
-![login-instagram]("C:\Users\danny\OneDrive\Área de Trabalho\Projects\login-instagram.png")
+![login-instagram](https://github.com/Dannyz817/login-instagram/assets/147431515/d40fb459-8a52-4584-9f55-7679da7333f3)
+
